@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Marck+Script&family=Poppins:wght@700&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 600vh;
+}
+
+
+.hero{
+  height: 80vh;
+  
+
+}
+
+
+.shop_img-one {
+  height: 200px !important;
+}
+
+.about {
+  height: 60vh;
+  background-color: black;
+}
+.hero3{
+  height: 90vh;
+  background-color: white !important;
+  box-shadow: 10px 5px 20px red;
+  margin-top: 20px;
+}
+
+.new{
+  height: 70vh;
+  background-color: gold;
+}
